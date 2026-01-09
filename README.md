@@ -115,6 +115,6 @@ Physionet.
 
 When using code from this repository, please consider citing
 
-> Hüser, Lyu, Faltys, Pace et al. "A comprehensive ML-based respiratory monitoring system for physiological monitoring & resource planning in the ICU", medRxiv 2024.01.23.24301516
+> Hüser, M., Lyu, X., Faltys, M. et al. RMS: a ML-based system for ICU respiratory monitoring and resource planning. npj Digit. Med. 8, 775 (2025). https://doi.org/10.1038/s41746-025-02081-4
 
 
